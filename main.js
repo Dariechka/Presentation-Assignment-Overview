@@ -6,7 +6,8 @@ import 'reveal.js/dist/reveal.css';
 // node_modules/reveal.js/dist/theme
 //  beige, black, blood, league, moon, night, serif, simple, ...
 // import ComparisonSlider from "comparison-slider";
-import 'reveal.js/dist/theme/moon.css';
+import 'reveal.js/dist/theme/sky.css';
+import 'reveal.js/plugin/highlight/monokai.css';
 
 const deck = new Reveal();
 deck.initialize({
