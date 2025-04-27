@@ -6,3 +6,25 @@ p {
 h2 {
   font-family: 'Indie', cursive;
 }
+
+.first-slide {
+  background-image: url('public/1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.last-slide {
+  background-image: url('public/22.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
