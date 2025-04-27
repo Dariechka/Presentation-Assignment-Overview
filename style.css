@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Inconsolata:wght@200..900&family=Indie+Flower&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
+
+p {
+  font-family: 'Indie', cursive;
+}
+h2 {
+  font-family: 'Indie', cursive;
+}
+
+.first-slide {
+  background-image: url('public/1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.last-slide {
+  background-image: url('public/22.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
