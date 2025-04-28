@@ -62,7 +62,7 @@ As a result, Linux has become the go-to choice for various devices, from servers
 
 One of the factors contributing to Linux’s widespread adoption is the development of distributions, or “distros”.
 These are complete operating systems built around the Linux kernel, packaged with utilities, libraries, and software applications.
-Notable distros like Debian, Red Hat, Ubuntu, and Fedora have emerged, each catering to specific user needs and technical requirements.
+Notable distros like Debian, CentOs, and ArchLinux have emerged, each catering to specific user needs and technical requirements.
 The diversity of distros has played a crucial role in making Linux accessible to a broad audience.
 
 ✅
@@ -70,7 +70,7 @@ The diversity of distros has played a crucial role in making Linux accessible to
 ## Linux in the Enterprise
 
 Stability and cost-effectiveness of Linux have made it a preferred choice for enterprise environments.
-Major corporations, including IBM, Google, and Amazon, have embraced Linux for server infrastructure, cloud computing, and mission-critical applications.
+Major corporations, including IBM, Google, Red Hat and Amazon, have embraced Linux for server infrastructure, cloud computing, and mission-critical applications.
 The scalability and performance of Linux have positioned it as a reliable foundation for the digital infrastructure that powers the modern business landscape.
 
 ✅
