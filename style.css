@@ -8,14 +8,21 @@ h2 {
 }
 
 .first-slide {
-  background-image: url('public/1.jpg');
+  background-image: url('/public/1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.second-slide {
+  background-image: url('/public/2.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .last-slide {
-  background-image: url('public/22.webp');
+  background-image: url('/public/22.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
